@@ -1,0 +1,5 @@
+dist/
+private/
+node_modules/
+server/images/*
+!server/images/.gitkeep
